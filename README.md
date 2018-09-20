@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # desktop-java-simple
 
 # Developer Workspace
@@ -17,3 +18,7 @@ FROM [codenvy/ubuntu_jdk8](https://hub.docker.com/r/codenvy/ubuntu_jdk8/)
 # App output
 
 App output is streamed into a console. Note that if your app expects user input, do not use command but execute jars in the terminal directly.
+=======
+# java-playground
+A simple java project to try things
+>>>>>>> refs/heads/master
