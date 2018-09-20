@@ -17,8 +17,9 @@ FROM [codenvy/ubuntu_jdk8](https://hub.docker.com/r/codenvy/ubuntu_jdk8/)
 # App output
 
 App output is streamed into a console. Note that if your app expects user input, do not use command but execute jars in the terminal directly.
-=======
+
 # java-playground
+
 A simple java project to try things
 This project was generated in a codenvy workspace and mainly used to see how I can try things without the need of a full blown java development environment on my local machine.
 This HelloWorld project is the default java project that is created when you add a java task in the workspace.
