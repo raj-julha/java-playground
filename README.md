@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # desktop-java-simple
 
 # Developer Workspace
@@ -21,4 +20,10 @@ App output is streamed into a console. Note that if your app expects user input,
 =======
 # java-playground
 A simple java project to try things
->>>>>>> refs/heads/master
+This project was generated in a codenvy workspace and mainly used to see how I can try things without the need of a full blown java development environment on my local machine.
+This HelloWorld project is the default java project that is created when you add a java task in the workspace.
+
+Instructions to link the Codenvy workspace with git hub come from https://seerocode.github.io/Upload-Codenvy-Project-To-Github/
+
+Note that step 8 states "Go back to Codenvy and initialize a repository by going to Git > Intitialize Repository" but the option was grayed out in my case as the default project was already a git project created as part of the java task by codeenvy
+
